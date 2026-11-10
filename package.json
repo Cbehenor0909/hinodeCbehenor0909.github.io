@@ -36,7 +36,7 @@
   "homepage": "https://gethinode.com",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^7.3.1",
-    "@fullhuman/postcss-purgecss": "^8.0.0",
+    "@fullhuman/postcss-purgecss": "^9.1.0",
     "@gethinode/hinode": "^1.0.0",
     "autoprefixer": "^10.6.2",
     "bootstrap": "^5.3.8",
