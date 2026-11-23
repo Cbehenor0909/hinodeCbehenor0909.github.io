@@ -38,7 +38,7 @@
     "@fortawesome/fontawesome-free": "^7.3.1",
     "@fullhuman/postcss-purgecss": "^9.1.0",
     "@gethinode/hinode": "^1.0.0",
-    "autoprefixer": "^10.6.2",
+    "autoprefixer": "^10.7.0",
     "bootstrap": "^5.3.9",
     "eslint": "^10.15.0",
     "eslint-config-standard": "^17.1.0",
